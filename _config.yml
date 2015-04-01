@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: Ja's Blog
+locale: ko_KR
+description: Software Engineering
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://lake1218.github.io
 
 # Jekyll configuration
 
@@ -31,13 +31,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Jiah Lee
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: lake1218@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #username
+  github: #lake1218
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
