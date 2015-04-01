@@ -10,9 +10,9 @@ feature:
 date: 2015-04-01T15:39:55-04:00
 ---
 
-####[**Codecademy**][codecademy] Completed
+###[**Codecademy**][codecademy] Completed
 
-- HTML & CSS Completed
+- **HTML & CSS Completed**
 <figure>
 	<a href="/images/post_img/codecademy_1.png"><img src="/images/post_img/codecademy_1.png" alt="image"></a>
 	<figcaption>Codecademy HTML&CSS</figcaption>
@@ -22,7 +22,7 @@ date: 2015-04-01T15:39:55-04:00
 
 
 
-- JavaScript Completed
+- **JavaScript Completed**
 <figure>
 	<a href="/images/post_img/codecademy_2.png"><img src="/images/post_img/codecademy_2.png" alt="image"></a>
 	<figcaption>Codecademy JavaScript</figcaption>
@@ -32,7 +32,7 @@ date: 2015-04-01T15:39:55-04:00
 
 
 
-- My Profile
+- **My Profile**
 <figure>
 	<a href="/images/post_img/codecademy_3.png"><img src="/images/post_img/codecademy_3.png"></a>
 	<figcaption>my profile</figcaption>
