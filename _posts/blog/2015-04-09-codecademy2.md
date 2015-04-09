@@ -44,7 +44,7 @@ date: 2015-04-09T15:39:55-04:00
 
 - **My Profile**
 <figure>
-	<a href="/images/post_img/codecademy_profile.png"><img src="/images/post_img/codecademy_profile.png"></a>
+	<a href="/images/post_img/codecademy_profile2.png"><img src="/images/post_img/codecademy_profile2.png"></a>
 	<figcaption>my profile</figcaption>
 </figure>
 
