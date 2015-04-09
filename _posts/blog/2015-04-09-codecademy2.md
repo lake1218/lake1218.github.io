@@ -14,7 +14,7 @@ date: 2015-04-09T15:39:55-04:00
 
 - **Python Completed**
 <figure>
-	<a href="/_posts/post_img/codecademy_python.png"><img src="/_posts/post_img/codecademy_python.png" alt="image"></a>
+	<a href="/images/post_img/codecademy_python.png"><img src="/images/post_img/codecademy_python.png" alt="image"></a>
 	<figcaption>Codecademy Python</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ date: 2015-04-09T15:39:55-04:00
 
 - **Ruby Completed**
 <figure>
-	<a href="/_posts/post_img/codecademy_ruby.png"><img src="/_posts/post_img/codecademy_ruby.png" alt="image"></a>
+	<a href="/images/post_img/codecademy_ruby.png"><img src="/images/post_img/codecademy_ruby.png" alt="image"></a>
 	<figcaption>Codecademy Ruby</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ date: 2015-04-09T15:39:55-04:00
 
 - **PHP Completed**
 <figure>
-	<a href="/_posts/post_img/codecademy_php.png"><img src="/_posts/post_img/codecademy_php.png" alt="image"></a>
+	<a href="/images/post_img/codecademy_php.png"><img src="/images/post_img/codecademy_php.png" alt="image"></a>
 	<figcaption>Codecademy PHP</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ date: 2015-04-09T15:39:55-04:00
 
 - **My Profile**
 <figure>
-	<a href="/_posts/post_img/codecademy_profile.png"><img src="/_posts/post_img/codecademy_profile.png"></a>
+	<a href="/images/post_img/codecademy_profile.png"><img src="/images/post_img/codecademy_profile.png"></a>
 	<figcaption>my profile</figcaption>
 </figure>
 
