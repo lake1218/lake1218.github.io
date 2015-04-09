@@ -14,7 +14,7 @@ date: 2015-04-01T15:39:55-04:00
 
 - **HTML & CSS Completed**
 <figure>
-	<a href="/images/post_img/codecademy_htmlcss.png"><img src="/images/post_img/codecademy_htmlcss.png" alt="image"></a>
+	<a href="/_posts/post_img/codecademy_htmlcss.png"><img src="/_posts/post_img/codecademy_htmlcss.png" alt="image"></a>
 	<figcaption>Codecademy HTML&CSS</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ date: 2015-04-01T15:39:55-04:00
 
 - **JavaScript Completed**
 <figure>
-	<a href="/images/post_img/codecademy_javascript.png"><img src="/images/post_img/codecademy_javascript.png" alt="image"></a>
+	<a href="/_posts/post_img/codecademy_javascript.png"><img src="/_posts/post_img/codecademy_javascript.png" alt="image"></a>
 	<figcaption>Codecademy JavaScript</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ date: 2015-04-01T15:39:55-04:00
 
 - **My Profile**
 <figure>
-	<a href="/images/post_img/codecademy_profile.png"><img src="/images/post_img/codecademy_profile.png"></a>
+	<a href="/_posts/post_img/codecademy_profile.png"><img src="/_posts/post_img/codecademy_profile.png"></a>
 	<figcaption>my profile</figcaption>
 </figure>
 
